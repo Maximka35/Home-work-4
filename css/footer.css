@@ -37,6 +37,7 @@
 .footer-social-list {
     list-style: none;
     display: flex;
+    gap: 16px;
     padding-top: 16px;
 }
 
@@ -57,4 +58,5 @@
 .footer-social-link:hover,
 .footer-social-link:focus {
     fill: #F4F4FD;
+    background-color: #31D0AA;
 }
