@@ -1,4 +1,4 @@
-.backdrop {
+.backdrop 
     position: fixed;
     top: 0;
     left: 0;
@@ -91,6 +91,7 @@
     height: 40px;
     max-width: 360px;
     min-height: 40px;
+    background-color: #fcfcfc;
     border-color: rgba(46, 47, 66, 0.4);
     transition: border 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -123,7 +124,7 @@
     width: 360px;
     height: 120px;
     resize: none;
-    border: 1px solid rgba(46, 47, 66, 0.4);
+    border-color: rgba(46, 47, 66, 0.4);
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
