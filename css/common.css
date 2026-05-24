@@ -57,3 +57,7 @@ p {
 .img {
     display: block;
 }
+
+textarea {
+    resize: none;
+}
