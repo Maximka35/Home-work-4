@@ -13,8 +13,8 @@
 
 .is-open {
     opacity: 1;
-    visibility: visible;
     pointer-events: auto;
+    visibility: visible;
 }
 
 .modal { 
@@ -30,7 +30,7 @@
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.14),
         0px 1px 3px rgba(0, 0, 0, 0.12),
         0px 2px 1px rgba(0, 0, 0, 0.2);
-    overflow: auto;
+    overflow-y: auto;
 }
 
 
@@ -71,7 +71,7 @@
 }
 
 .input-wrapper {
-    margin-bottom: 20px;
+    margin-bottom: 16px;
 }
 
 .input-label {
