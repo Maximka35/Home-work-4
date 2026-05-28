@@ -211,11 +211,11 @@ modal-input:focus+.icons-svg {
     text-decoration: underline;
 }
 
-/* .modal-link:hover,
+.modal-link:hover,
 .modal-link:focus {
     color: #404bbf;
 }
- */
+ 
 .submit-button {
     display: block;
     background-color: #4D5AE5;
