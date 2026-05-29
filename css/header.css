@@ -12,12 +12,12 @@
     }
 
 
-.header {
+ .header {
     box-shadow: 0 1px 6px 0 rgba(46, 47, 66, 0.08),
         0 1px 1px 0 rgba(46, 47, 66, 0.16),
         0 2px 1px 0 rgba(46, 47, 66, 0.08);
 }
-
+ 
 .logo-web {
     color: #4D5AE5;
 }
@@ -42,7 +42,6 @@
     text-decoration: none;
     padding: 24px 0;
     transition: color 0.25s ease-in-out;
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .activator {
